@@ -4,4 +4,4 @@ The codebase has a sample Django web app (Stock Analysis Dashboard) displaying a
 
 Please check the video below to understand the codebase in detail.
 
-* [Step-byStep- Guide to integrate Bokeh Charts into Django Web App](https://www.youtube.com/@CoderzColumn)
+* [Step-byStep- Guide to integrate Bokeh Charts into Django Web App](https://www.youtube.com/watch?v=JRGktwaaYUA)
